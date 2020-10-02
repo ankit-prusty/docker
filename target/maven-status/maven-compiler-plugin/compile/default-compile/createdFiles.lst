@@ -1,0 +1,5 @@
+com\mindtree\garmentapp\service\ProductService.class
+com\mindtree\garmentapp\controller\AppController.class
+com\mindtree\garmentapp\repository\ProductRepository.class
+com\mindtree\garmentapp\ProductAppApplication.class
+com\mindtree\garmentapp\entity\Product.class
